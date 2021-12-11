@@ -1,8 +1,8 @@
 {
-  "name": "ready",
-  "version": "1.0.0",
+  "name": "@crocwork/ready",
+  "version": "1.0.1",
   "description": "jQuery.ready function",
-  "main": "src/index.js",
+  "main": "./src/ready.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
