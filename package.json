@@ -1,6 +1,6 @@
 {
   "name": "@crocwork/ready",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jQuery.ready function",
   "main": "./src/ready.js",
   "scripts": {
