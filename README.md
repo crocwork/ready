@@ -1,4 +1,4 @@
-ready()
+Ready()
 =======
 ### How to use:
 
