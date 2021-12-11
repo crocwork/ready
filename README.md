@@ -1,5 +1,7 @@
-Ready()
+Ready function
 =======
+Inspired by [this post](https://stackoverflow.com/questions/799981/document-ready-equivalent-without-jquery)
+
 ### How to use:
 
 #### Step 1
@@ -19,3 +21,4 @@ Ready(()=>{
   // this code runs same way without errors
 });
 ```
+
