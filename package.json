@@ -1,6 +1,6 @@
 {
   "name": "@crocwork/ready",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jQuery.ready function",
   "main": "./src/ready.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/croqo/ready.git"
+    "url": "git+ssh://git@github.com:crocwork/ready.git"
   },
   "keywords": [
     "jquery",
@@ -22,7 +22,7 @@
   "author": "CROC⚒️WORK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/croqo/ready/issues"
+    "url": "https://github.com/crocwork/ready/issues"
   },
-  "homepage": "https://github.com/croqo/ready#readme"
+  "homepage": "https://github.com/crocwork/ready#readme"
 }
